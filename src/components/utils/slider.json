@@ -1,0 +1,34 @@
+[
+  {
+    "images": "r1",
+    "title": "Mobile Application Development",
+    "description": "ANDROID / IOS / CROSS PLATFORM"
+  },
+  {
+    "title": "WEB APPLICATION",
+    "description": "",
+    "images": "r1"
+  },
+  {
+    "title": "WEB DEVELOPMENT",
+    "description": "",
+    "images": "./r2.png"
+  },
+  {
+    "title": "E-COMMERCE SOLUTIONS",
+    "description": "",
+    "images": "./assets/images/r3.png",
+    "link":"../assets/js/Header"
+  },
+  {
+    "title": "SOFTWARE CONSULTING SERVICES",
+    "description": "",
+    "images": "./assets/images/S1.png"
+  },
+  {
+    "title": "DIGITAL MARKETING",
+    "description": "",
+    "images": "./assets/images/S1.png"
+  }
+
+]
